@@ -11,6 +11,7 @@ Die App sucht im eingestellten Abstand (voreingestellt: monatlich, abschaltbar) 
 |---|---|
 | **Aktuelle Version** | 1.6.0 |
 | **Android-App herunterladen** | [**5-Schicht-EB.apk** – neueste Version direkt herunterladen](https://github.com/henhandy-cmyk/5-schicht-eb-updates/releases/latest/download/5-Schicht-EB.apk) |
+| **Download-Seite** | [Neueste Version](https://github.com/henhandy-cmyk/5-schicht-eb-updates/releases/latest) – dort die Datei `5-Schicht-EB.apk` oder `5-Schicht-EB-x.y.z.apk` antippen |
 | **Anleitung (PDF)** | [Anleitung_5-Schicht-EB.pdf](https://github.com/henhandy-cmyk/5-schicht-eb-updates/releases/latest/download/Anleitung_5-Schicht-EB.pdf) (Stand 1.6.0) |
 | **Alle Versionen** | [Übersicht der Versionen](https://github.com/henhandy-cmyk/5-schicht-eb-updates/releases) |
 
